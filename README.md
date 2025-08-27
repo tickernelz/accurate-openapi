@@ -2,6 +2,8 @@
 
 Dokumentasi dan spesifikasi OpenAPI untuk integrasi dengan Accurate Cloud API.
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/tickernelz/accurate-openapi)
+
 ## Struktur Project
 
 - `openapi.yaml`  
