@@ -48,4 +48,4 @@ Silakan buat pull request atau issue jika menemukan kekurangan atau ingin menamb
 
 ---
 
-**Hak Cipta © Accurate OpenAPI**
+**Hak Cipta
